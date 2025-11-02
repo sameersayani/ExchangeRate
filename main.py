@@ -59,7 +59,7 @@ API_PROVIDERS = {
 }
 
 CACHE_DURATION = 300  # 5 minutes in seconds
-DEFAULT_PROVIDER = "frankfurter"  # Most reliable free provider
+DEFAULT_PROVIDER = "exchangerate_api"  # Most reliable free provider
 
 # In-memory cache
 _cache = {}
